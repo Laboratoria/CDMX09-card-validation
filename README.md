@@ -7,7 +7,8 @@
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
+* [6. Hacker edition](#6-Hacker-edition)
+* [7. Pistas, tips y lecturas complementarias](#7-pistas-tips-y-lecturas-complementarias)
 
 ***
 
